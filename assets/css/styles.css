@@ -197,7 +197,6 @@ nav ul li {
 
 /* More about */
 .more-about {
-  background-color: var(--bg-color);
   padding: 1rem 6rem;
 }
 
@@ -236,7 +235,6 @@ nav ul li {
 
 /* Projects section */
 .projects {
-  background-color: var(--bg-color);
   padding: 32px 0;
   margin-top: 2rem;
 }
@@ -372,7 +370,6 @@ nav ul li {
 
 /* Footer section */
 footer {
-  background-color: var(--bg-color);
   padding: 1.25rem;
   text-align: center;
   margin: 2rem 0 0;

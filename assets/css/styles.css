@@ -111,8 +111,17 @@ nav ul li {
 }
 
 .hero img {
+  animation: pulse 2s infinite alternate;
   height: 37.5rem;
   width: 37.5rem;
+}
+@keyframes pulse {
+  from {
+    transform: scale(1); /* Initial scale */
+  }
+  to {
+    transform: scale(1.1); /* Scale up */
+  }
 }
 
 .bio {

@@ -199,6 +199,9 @@ nav ul li {
 /* More about */
 .more-about {
   padding: 1rem 6rem;
+  border-radius: 6px;
+  box-shadow: 0px 2px 15px 2px var(--primary-shadow);
+  background-color: white;
 }
 
 .more-about h2 {
